@@ -14,8 +14,7 @@ body {
 }
 
 body {
-  background: url(../imagens/fundo-madeira.jpg) top center / cover no-repeat
-    fixed;
+  background: url(../imagens/fundo-madeira.jpg) top center / cover no-repeat fixed;
 }
 
 main {
